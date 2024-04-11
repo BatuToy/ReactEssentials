@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactEssentials/static/css/main.78885a53.css",
+    "main.js": "/ReactEssentials/static/js/main.57332fc8.js",
+    "static/media/config.png": "/ReactEssentials/static/media/config.451abc5ffcae68d66e93.png",
+    "static/media/jsx-ui.png": "/ReactEssentials/static/media/jsx-ui.ca9e351933a47544132d.png",
+    "static/media/components.png": "/ReactEssentials/static/media/components.4e6703ef67d4d9bad118.png",
+    "static/media/state-mgmt.png": "/ReactEssentials/static/media/state-mgmt.b9d2d5da51b43e380646.png",
+    "static/media/react-core-concepts.png": "/ReactEssentials/static/media/react-core-concepts.aa9adfff5497788cb1e5.png",
+    "index.html": "/ReactEssentials/index.html",
+    "main.78885a53.css.map": "/ReactEssentials/static/css/main.78885a53.css.map",
+    "main.57332fc8.js.map": "/ReactEssentials/static/js/main.57332fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78885a53.css",
+    "static/js/main.57332fc8.js"
+  ]
+}
